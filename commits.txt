@@ -1,0 +1,17 @@
+commit a6201f0423aaecace716088de27d87652e6bf89f
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Jun 29 17:24:12 2015 +0200
+
+    index.html
+
+commit 32e8e5766521290a96500dfdb0131a61d36e0c12
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Jun 29 17:17:12 2015 +0200
+
+    Subida de los mail
+
+commit 5f7b6ed5670db204770a1163a570b1d0dc76145a
+Author: Felipe Elizagarate <artes-visuales@users.noreply.github.com>
+Date:   Mon Jun 29 16:52:46 2015 +0200
+
+    Update .gitignore
