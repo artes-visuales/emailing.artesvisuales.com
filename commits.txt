@@ -1,3 +1,95 @@
+commit 3bf369198d13a9137d5a845353ad44fea5653aea
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Jul 6 20:18:16 2015 +0200
+
+    Mail Diseño Gráfico Web
+
+commit 15278452241a11a74f57355404db45169be7730d
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Jul 6 19:36:26 2015 +0200
+
+    Actualizo imágenes
+
+commit a8b8117e9bdccf0f3f0ca6dfd8421e4514ae85c7
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Jul 6 12:17:32 2015 +0200
+
+    Ajustes Paypal
+
+commit ae7b95a42d0c2ff2b3c24b22814e96644852742a
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Sat Jul 4 12:32:56 2015 +0200
+
+    Cambio url imágenes a subdominio mailing
+
+commit bee7d088fe6129a5770405c219c90df795f9e355
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Sat Jul 4 12:26:58 2015 +0200
+
+    CNAME
+
+commit b7c6f73a736c5424737ba8737a36b2cc716c391c
+Merge: 730f299 2d138a5
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Sat Jul 4 12:22:36 2015 +0200
+
+    Merge branch 'gh-pages' of github.com:artes-visuales/eMailing
+    Create gh-pages branch via GitHub
+
+commit 730f299ef279a790da7b869cfdf9d621bdd172e5
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Sat Jul 4 12:20:30 2015 +0200
+
+    CNAME
+
+commit 2d138a5f9c675a5f11278eb7b559ad98dfefd1a4
+Author: Felipe Elizagarate <artes-visuales@users.noreply.github.com>
+Date:   Sat Jul 4 12:16:30 2015 +0200
+
+    Create gh-pages branch via GitHub
+
+commit 40553d17a738da9ad721a200fb1adc34e912ebf2
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Sat Jul 4 12:08:11 2015 +0200
+
+    Paypal MDG
+
+commit 6e3b5534503e9add5da0f535c92b81a730ce682d
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Sat Jul 4 12:06:09 2015 +0200
+
+    Master MDG y MAC
+
+commit b18db6968631876b441a79e7ac5ff8a2d8e2cc64
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Sat Jul 4 12:04:44 2015 +0200
+
+    Mail del MDG y MAC
+
+commit 116d7eae037b568b779db75116c2029b1780d8ca
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Jun 29 17:50:42 2015 +0200
+
+    Commits.txt
+
+commit 3875949c254a07e9d36687bf63b920c9368bc279
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Jun 29 17:46:26 2015 +0200
+
+    commits.txt
+
+commit 93fb4b5acfa542502a243f714c92beafa61ed5c3
+Author: Felipe Elizagarate <artes-visuales@users.noreply.github.com>
+Date:   Mon Jun 29 17:44:23 2015 +0200
+
+    Delete (Copia en conflicto de Felipe Elizagarate 2015-06-29).gitignore
+
+commit 62ffd5cb913ca0e61a32e231d4063b632f153e4a
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Jun 29 17:42:15 2015 +0200
+
+    commits.txt
+
 commit a6201f0423aaecace716088de27d87652e6bf89f
 Author: artes-visuales <elizagarate@artesvisuales.com>
 Date:   Mon Jun 29 17:24:12 2015 +0200
