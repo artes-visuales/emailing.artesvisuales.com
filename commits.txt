@@ -1,3 +1,81 @@
+commit 5536d1e55d1e34a93b9a6de93db3172b023f82b4
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Jul 10 12:49:47 2015 +0200
+
+    Index sitio
+
+commit 65028197d6bd7dbd9ecb8d183ec2e1d03d117f8d
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Jul 9 18:58:23 2015 +0200
+
+    Especialista Universitario eCommerce WordPress
+
+commit 3b2dc100f7c002f045660dc4a56aa797cd06b870
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Jul 9 18:37:33 2015 +0200
+
+    Imagen Especialista Universitario eCommerce WordPress
+
+commit 1259ba35a84561bd2cee33933f29398fed4b773a
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jul 8 20:03:04 2015 +0200
+
+    Especialista Universitario Identidad Corporativa
+
+commit e92595149227ad4c2b55c6e9d1bc3d3d933fe5ed
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jul 8 19:43:37 2015 +0200
+
+    viewOnline urls mails
+
+commit 09014fb059a1182914e7d72f8f2875f06e29740f
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jul 8 18:33:38 2015 +0200
+
+    EUDE Paypal
+
+commit 2392021908dcb551a696f54e0cee77de09fda916
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jul 8 18:14:44 2015 +0200
+
+    Especialista Universitario Diseño Editorial
+
+commit 1a4c501901c78a3b0fdcf29cbca512ab78792b54
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jul 8 18:11:27 2015 +0200
+
+    Especialista Universitario Diseño Editorial
+
+commit fdbe71eafe6f158b285af7916eff98596c8dd027
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Jul 7 20:19:40 2015 +0200
+
+    Especialista Universitario Diseño Gráfico final
+
+commit ac2b49fd569e0b999158867893fdf6da2b63b01f
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Jul 7 19:55:53 2015 +0200
+
+    Especialista Universitario Diseño Gráfico, url img CC
+
+commit de078cb8fb9942207340b57a913aeffa24caabcc
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Jul 7 19:52:34 2015 +0200
+
+    Especialista Universitario Diseño Gráfico
+
+commit 7aa465408f4e33d750aeae1c4ed21dd01641b823
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Jul 7 19:31:27 2015 +0200
+
+    Master Fotografía y Vídeo
+
+commit 94d8f1f29eeb07ec469000e1432d868129a76376
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Jul 7 18:58:24 2015 +0200
+
+    Master Diseño Web
+
 commit 3bf369198d13a9137d5a845353ad44fea5653aea
 Author: artes-visuales <elizagarate@artesvisuales.com>
 Date:   Mon Jul 6 20:18:16 2015 +0200
