@@ -1,5 +1,5 @@
 *.log
-_mails.sublime-project
-_mails.sublime-workspace
+_emailing.sublime-project
+_emailing.sublime-workspace
 .gitignore
 elements.psd
