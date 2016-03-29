@@ -1,3 +1,273 @@
+commit 86b64f1e8963b20c712e2fb038c791a446869719
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Mar 29 19:08:46 2016 +0200
+
+    MMI: Módulos curso
+
+commit 6d92ce6aaff57b738f7db83c0577c4bd9af98cb6
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Mar 29 12:13:55 2016 +0200
+
+    DNI
+
+commit 14a2f4c75c474b6bbbce79478f9362462ba1e638
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Mar 28 11:33:42 2016 +0200
+
+    Documentos Matrícula
+
+commit d3c051dcad41aa2f1cb6ea385feceba411baa63c
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Mar 28 11:23:57 2016 +0200
+
+    Documentos Matrícula
+
+commit 6c00b0ec167f348481c42a3f892c206c98384ae0
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Mar 16 13:18:47 2016 +0100
+
+    Paypal DUDG
+
+commit b0d2600d4248e02c3df0034c3b5b889406150bc4
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Mar 16 13:17:48 2016 +0100
+
+    Paypal DUDG
+
+commit 32198929f6fa33bacbe10805a7cc4a577ace62f0
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Mar 16 11:18:53 2016 +0100
+
+    Ajuste tamaño tipo y alto línea de la lista
+
+commit 3adf5af148d4efe231f09adf8c7b219551676697
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Mar 16 11:17:20 2016 +0100
+
+    Título CAV
+
+commit babc0ada5553cfe01a06ae1dbfba63dbca2f7023
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Mar 16 11:15:31 2016 +0100
+
+    Paypal CAV & CC
+
+commit bbb5a3971cd1040c6c2f7bc91ed83d8a010f4f7c
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Mar 16 10:48:12 2016 +0100
+
+    Ajuste font-size y line-height
+
+commit 925c991c79c72f1ddd336730e88d6bdac0934f63
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Mar 16 09:57:41 2016 +0100
+
+    Paypal DUDG
+
+commit 6760851cb57b46246f218d94f42c78dbd30297ce
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Mar 16 09:56:00 2016 +0100
+
+    Paypal DUFV
+
+commit 0564c58cec70b7d0d828c8d067b8076b8b7487b5
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Mar 16 09:47:55 2016 +0100
+
+    Paypal DUDW
+
+commit e768265a5510239196a2bc5c63cbb04a2c03d29a
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Mar 3 13:21:33 2016 +0100
+
+    Paypal
+
+commit 8ac4ceac502a094d4be30f4c8286bd3dbf14c025
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Mar 3 12:36:11 2016 +0100
+
+    Repaso Tit.
+
+commit 3c46ed2a522c1b44863d9bc5d9bf98508f367cc5
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Mar 3 10:05:51 2016 +0100
+
+    Modificación Título
+
+commit a163fc1546a47d671406efc77f8532170c88ecd7
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Mar 3 10:04:21 2016 +0100
+
+    Modificación Título
+
+commit 4e5105398ff8a5934cb3c6006a8cfb9f0e1c8cf4
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Mar 3 10:00:02 2016 +0100
+
+    Modificación Título
+
+commit 42a23d7a7d39e85e1456dc58d28335146d5edbb2
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Feb 24 10:17:36 2016 +0100
+
+    Actualización index.
+
+commit 4e6c69f73a418d3b259a7b40c72ee91c69572c52
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Feb 24 10:05:38 2016 +0100
+
+    Aclaración denominaciones.
+
+commit 992f101aae9caf25f96d434b43101f20d5794ee0
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Feb 24 10:03:46 2016 +0100
+
+    Aclaración denominaciones.
+
+commit 614677024481b595a1c5f1c8c4d36a9042b08a2e
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Feb 24 10:00:55 2016 +0100
+
+    Aclaración denominaciones.
+
+commit 74a8bc5cdfe8e1808273b5bde579f5b2bcd0b0de
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Jan 25 19:35:26 2016 +0100
+
+    Temario desglosado EUDG
+
+commit 941cd12042465599e50c859510f9658b1742ccfd
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Jan 21 08:30:14 2016 +0100
+
+    Ajuste de Title
+
+commit 15c2554e03bc3523be94c12ed5ee722a72c48691
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Jan 21 08:30:06 2016 +0100
+
+    Ajuste de Title
+
+commit 0ec09385e7958671ac00b07a11aa3770be366aa8
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Dec 4 12:17:12 2015 +0100
+
+    DGD
+
+commit a7602648c9854d7e2f48013f802660779059400a
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Dec 4 12:15:41 2015 +0100
+
+    Actualización DGD
+
+commit e3fd08c7c8ff841e68578ab9457b5140406d156f
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Oct 16 12:22:52 2015 +0200
+
+    Actualizo Diplomas Universitarios
+
+commit dff850ae55678894d359493cc74f27fe09aaca72
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Oct 15 17:25:49 2015 +0200
+
+    Actualización images Diplomas Universitarios
+
+commit c450e944dbd07e9c35fde996144844777e902000
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Oct 15 17:21:33 2015 +0200
+
+    Modificación Diplomas Universitarios
+
+commit 12017b7a2dea3ff90a3f4f694701fe0cf606b276
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Oct 15 08:00:43 2015 +0200
+
+    Cambio CS6 a CC
+
+commit 743a103381cd8d614498dd3203fbd3c7360d1f87
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Oct 2 10:19:29 2015 +0200
+
+    Corrijo url mail DGD
+
+commit a0be2b305fd2c27ae90cea976e1ec45436df86c0
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Sep 29 09:14:35 2015 +0200
+
+    Actualización index.html
+
+commit 5714459e443f578f863cbfd7c76ea0f3ea607f3d
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Sep 28 19:05:17 2015 +0200
+
+    Precio ucam-cav.html
+
+commit b2b800c2485c20c8a23df79693268f753000981a
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Sep 10 17:36:28 2015 +0200
+
+    IBAN banco
+
+commit 37498705acc05f4b92c77a4f8a32f5f14e9f6923
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Aug 28 13:01:33 2015 +0200
+
+    software-cs6.html
+
+commit abf80f85113e04fd97438a99ba7d5ff8571eb7b9
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Aug 28 13:00:10 2015 +0200
+
+    sosoftware-cs6.html
+
+commit c2c396c16b3ed6902e1f2b86b77546d0d7bec2e8
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Aug 24 12:23:33 2015 +0200
+
+    Título ucam-mfv-cc.html
+
+commit 302ee1a434b15b1277eb98c3299fbf39dfcea621
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jul 22 19:27:28 2015 +0200
+
+    ucam-cav-imac.html
+
+commit 488fa821f8bda5ad65cdabdb52008dfcac4d29a5
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jul 22 11:51:51 2015 +0200
+
+    Elimino SDK FB
+
+commit 6d174f7f6ffd7560535e807e1931014ecfc1be2d
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jul 22 11:11:12 2015 +0200
+
+    Prueba tu integración con Facebook
+
+commit cd0521524cd91aad66b4d7e85ef66850f0454ab9
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jul 22 11:09:33 2015 +0200
+
+    Setup the Facebook SDK for JavaScript ucam-cav-imac.html
+
+commit 4ce509b17d5d77330d45a0f4142f146f7401e59f
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Jul 13 17:50:56 2015 +0200
+
+    index.html
+
+commit 808485f1bbe17453429f14dd71a8f955a2362ad1
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Jul 13 17:46:41 2015 +0200
+
+    index.html
+
+commit cb70d748cb7d2a33052642a4bc13ad3a9ed017fb
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Jul 10 14:12:31 2015 +0200
+
+    commits.txt
+
 commit 5536d1e55d1e34a93b9a6de93db3172b023f82b4
 Author: artes-visuales <elizagarate@artesvisuales.com>
 Date:   Fri Jul 10 12:49:47 2015 +0200
