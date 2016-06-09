@@ -1,3 +1,159 @@
+commit b9e55da4a66205b4b0afda56cfc4357a7f9956f7
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jun 8 11:56:17 2016 +0200
+
+    Temario y urls
+
+commit d33f1392f57ddc0ae2263cc6e74ddf9a073040ff
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jun 8 11:50:36 2016 +0200
+
+    Temario y urls
+
+commit 18929039a14b7c0bafa4c431fc49e30a055b93cf
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jun 8 11:50:01 2016 +0200
+
+    Temario y urls
+
+commit 50bf31a323d35bd91d4ac794ac3ba5a80b265d0d
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jun 8 11:42:20 2016 +0200
+
+    Temario, paypal, precios
+
+commit 5d8b59f58069132728f94a47bc11eb414e6efdb6
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jun 8 11:31:07 2016 +0200
+
+    Temario
+
+commit 6bd02e736d0283923f96f631c800626254d8a1ad
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jun 8 11:27:49 2016 +0200
+
+    Actualización Paypal
+
+commit 0613511adba763ba8dc5cc6e3f6b9f21b462caaa
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jun 8 11:20:39 2016 +0200
+
+    cav iMac promo
+
+commit 6e7fb03e00ec39c0dc15f54c2d7eabb850e5da26
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jun 8 11:19:13 2016 +0200
+
+    cav imac
+
+commit 8d9d4f2dcbb357de2deed02e6436dd12c6bf7065
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jun 8 11:16:04 2016 +0200
+
+    cav imac
+
+commit dea4051cd808dbd4bb87364fa9f32befd6e318c6
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jun 8 11:12:43 2016 +0200
+
+    cav iMac
+
+commit 808e85ee249ee6e401e34f2520cd5b836a73946e
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jun 8 11:10:06 2016 +0200
+
+    cav iMac
+
+commit 1a713e6a3518caba64ec322eb4b83beff1e27f8e
+Author: Felipe Elizagarate <artes-visuales@users.noreply.github.com>
+Date:   Wed Jun 8 10:57:57 2016 +0200
+
+    Actualización url e imágenes
+
+commit 2d324d0efbb8c4c74e54e1679755bded947f0320
+Author: Felipe Elizagarate <artes-visuales@users.noreply.github.com>
+Date:   Wed Jun 8 10:19:02 2016 +0200
+
+    Imagen iMac
+
+commit f566d4e2bec8d52805edb5c24170e2dd0739f7f3
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Jun 3 13:14:10 2016 +0200
+
+    MMI-CC
+
+commit 1456d3932a9085db366d8540e7628b3764616967
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Jun 3 12:12:38 2016 +0200
+
+    MMI
+
+commit eb245c22fec195cc75d6b25670ad172065a5428c
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Jun 3 12:07:52 2016 +0200
+
+    Listado cursos: index.
+
+commit 8caffcc2b5ceeaa86904c31bf24efdfc6a9378e7
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Jun 3 12:05:38 2016 +0200
+
+    Listado cursos: index.
+
+commit 3c328eb900b8c129cc855f33c074796ea09db1d3
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Jun 2 12:25:56 2016 +0200
+
+    Actualización paypal
+
+commit e2859b5b579556004b9719ed803e5b2e37951888
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue May 31 18:33:14 2016 +0200
+
+    CAV iMac&CC
+
+commit 8636cb7aac0272f1a7611d8649025c1d3b93315b
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Apr 20 18:21:28 2016 +0200
+
+    Diplomas Universitarios Tutellus
+
+commit 9b5d74d3adb0ddec5e8762f8f963575b86ae284d
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Apr 18 09:10:15 2016 +0200
+
+    h1 ajustes
+
+commit a0f2655cbca6c184d43bb6c92ad7423434da70cc
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Apr 18 07:56:05 2016 +0200
+
+    Ajuste h1
+
+commit 75cb369340c2e885bf917e8a5cceca708270a7a1
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Sat Apr 16 08:36:01 2016 +0200
+
+    CAV
+
+commit 0fd2018392f9a4cb650010b4f7ae17afe0b04f77
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Apr 13 12:29:07 2016 +0200
+
+    MDG
+
+commit 0ff98c90d9631d8de780064d595ae367d238af4e
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Apr 1 12:35:11 2016 +0200
+
+    Matrícula - documentación
+
+commit 0ca7e51695a1decffbc987d5ce935fc2967fd5c7
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Mar 29 19:12:46 2016 +0200
+
+    commits.txt
+
 commit 86b64f1e8963b20c712e2fb038c791a446869719
 Author: artes-visuales <elizagarate@artesvisuales.com>
 Date:   Tue Mar 29 19:08:46 2016 +0200
