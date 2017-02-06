@@ -1,3 +1,129 @@
+commit 0fcffad5ba88778e2dd09b8691041c096093f9aa
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Jan 19 12:28:35 2017 +0100
+
+    Actualización precio
+
+commit 680115368629fa23ec200e5ae71859ba634ab70a
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Dec 26 11:31:19 2016 +0100
+
+    IBAN
+
+commit 4cc960f1dcf91402789f77453204c03d5b41d78a
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Dec 26 11:29:01 2016 +0100
+
+    IBAN
+
+commit b05d70751396161a2cdad8f39dadc86a9d9858c3
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Dec 23 12:59:59 2016 +0100
+
+    Cta ING
+
+commit 05d42274d7133442c43daca1169f91798a41581c
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Nov 17 09:19:49 2016 +0100
+
+    Actualizar url Tutellus
+
+commit ffb70f96f5f4f062820cb75bd119df71c3cb9ed0
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Nov 10 12:51:12 2016 +0100
+
+    url Paypal
+
+commit ada71e6019580f28b80ab93d30b02a5ccbd511e5
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Nov 4 12:47:01 2016 +0100
+
+    Paypal MAC
+
+commit 81e9f215d5e243b0c92020b10b463cd82e09b48c
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Oct 19 08:11:20 2016 +0200
+
+    Actualización documentos matrícula
+
+commit 6faf6d8a3f4411a9d14cdb564128ac3eb0ab6fb9
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Oct 4 19:04:39 2016 +0200
+
+    Actualización temario
+
+commit 676f9aba62644a792801851a1d425dcd2691f539
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Sep 22 13:19:15 2016 +0200
+
+    MasterClass_PDF_x
+
+commit 0ee54fa3f4174d1366bf36194b1ded764ffc4281
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Sep 22 13:13:39 2016 +0200
+
+    MasterClass_PDF_x
+
+commit 6e5982349b4e858476fdcdc4248401eb9b7aabc6
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Sep 12 16:43:58 2016 +0200
+
+    Trayectorias temarios
+
+commit 2c23a2da074662db733eb39f07701f172e9a785a
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Jul 29 12:49:48 2016 +0200
+
+    Actualización Diplomas Universitarios
+
+commit 4c01284a5c80231e8a5d7e5357394990b5f650b3
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Jul 29 12:49:26 2016 +0200
+
+    Actualización Diplomas Universitarios
+
+commit 1b6138e6da2e4a31a4335cc1b6af792041e1343c
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Jul 28 09:53:11 2016 +0200
+
+    Actualizar imagen
+
+commit be136e554c2a0dedb6e5029f80812af2194b8af1
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Jul 18 12:12:23 2016 +0200
+
+    Bonificaciones SS
+
+commit 103f4f6819b6e5105a21184c704910774479152f
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Jul 7 09:41:17 2016 +0200
+
+    PVP
+
+commit 5490d74a77f887be78202e605a68b2cd0b304893
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Jul 7 09:39:27 2016 +0200
+
+    PVP
+
+commit 9100cb5be4d1e7029eff3d643f4078b92f8ddc61
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Jun 14 09:01:20 2016 +0200
+
+    Paypal
+
+commit 58ab7027fa891ac2ef362be2adf951d057c64c42
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Sun Jun 12 10:09:46 2016 +0200
+
+    Suscripción CC
+
+commit 2ae38295d1e7b9ac2a50f7c67542172c6719bcbf
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Jun 9 10:29:09 2016 +0200
+
+    commits.txt
+
 commit fb41088c7f64c82d25e647fe01118905602709b4
 Author: artes-visuales <elizagarate@artesvisuales.com>
 Date:   Thu Jun 9 10:03:32 2016 +0200
