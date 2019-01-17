@@ -1,3 +1,269 @@
+commit fc6c1fa943b823583399450badf37cf804fb678a
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Jan 17 10:15:07 2019 +0100
+
+    Nueva v. mails
+
+commit f9d1193cbb36a2da808b9f110ae27b7537cc9bd0
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Nov 8 13:57:23 2018 +0100
+
+    boton buy
+
+commit cbebeb158fd030d021efbafa044893896335b821
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Nov 8 13:51:07 2018 +0100
+
+    imagenes
+
+commit 6865066e6e1958529d5aac48fe8419838e087e65
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Nov 8 13:46:02 2018 +0100
+
+    imagenes
+
+commit 27dde0fb66344e7906179cbf3a97ca5ca3978b75
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Nov 8 13:36:25 2018 +0100
+
+    imagenes
+
+commit fbe059d1a568ccbc8534385322ef83b55a8ce50b
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Oct 23 19:00:19 2018 +0200
+
+    formulario google
+
+commit 6fea556458c2c5a5fe74137ac4f224cd53370bc4
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Oct 2 18:38:28 2018 +0200
+
+    index
+
+commit e5eb675547625ad5a6a54f29ff2dae23277d7db8
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Oct 2 18:16:05 2018 +0200
+
+    Actualiza seguimiento
+
+commit 262a0e71c7b8fc5852c84d499e6deedcd8001115
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Sep 21 13:56:49 2018 +0200
+
+    Actualización documentación
+
+commit 88cb9b2eb4616c5b735379f5568fd29c91ec35f1
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Sep 21 13:54:17 2018 +0200
+
+    Especificaciones documentación
+
+commit 3a73d0f6484f03f92d2d027f9f9523c20d81fbef
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu May 31 10:36:29 2018 +0200
+
+    color
+
+commit bc40af98f4978652191f7c1c2a7d05ba9a900c9d
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu May 31 08:59:21 2018 +0200
+
+    urls absolutas
+
+commit 5e092c1c90e7c6753a62c0b54d9ad6ba87dc6ef9
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu May 31 08:24:05 2018 +0200
+
+    color
+
+commit a3c6962a3adc617d48c5508dd18e83bd4ee4265a
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu May 24 11:10:49 2018 +0200
+
+    Seguimiento
+
+commit 6a3d95bea842fe4c20000b3f9b38e9355c6eb249
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Apr 19 18:46:52 2018 +0200
+
+    CAV & iMac fin promo
+
+commit 9db793d8ed66a9f64588c3a16e7006441a2ec903
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Apr 17 09:39:14 2018 +0200
+
+    CAV e iMac
+
+commit 4f45028ffd3f930e265a6ab0f45575625a7420bc
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Feb 6 12:33:30 2018 +0100
+
+    Actualización oferta
+
+commit d74f7e7a137475fc6e21e8e608e7a1d0f8ebb07e
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Feb 6 12:30:41 2018 +0100
+
+    Actualización oferta
+
+commit bcc8a51ebb58423344f717f16da0665966e2d352
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Nov 6 13:00:56 2017 +0100
+
+    Promo CC
+
+commit 539c135d525bf46757ec81a0deacd543a9ef5b50
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Sep 12 12:38:54 2017 +0200
+
+    documentación
+
+commit 699b1fbd074f8274c157ff33eecb24cf3a85cc23
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Sep 5 08:34:05 2017 +0200
+
+    air
+
+commit 6a01da6d0269d858ccc26f26e59524d01a881283
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Sep 5 08:31:45 2017 +0200
+
+    air
+
+commit 6896fdc39320d89a3d42320feba98bc79b2e467a
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Sep 5 08:27:57 2017 +0200
+
+    air
+
+commit d9eda538c9f41c4ee8dbe285eb29062019ae7c80
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Sep 5 08:26:37 2017 +0200
+
+    air
+
+commit aa99df5666fc57bc30046d891f9699f46dd53f47
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Sep 5 08:23:37 2017 +0200
+
+    air
+
+commit 7b4144e5ac4e40e2fb159bead0b2b4c11dcdb342
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Jul 28 12:45:04 2017 +0200
+
+    cv
+
+commit 5e8134af8a423266cf131efe16a0ddaaa7fc8462
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Jul 18 10:31:00 2017 +0200
+
+    Tag url cursos
+
+commit ae6a9abebca0de9d3000f8a09700fa918d429bc6
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Jul 18 10:22:36 2017 +0200
+
+    Tag url diplomas
+
+commit f8a1aa1adf1a6488abf163d02d054ad5b83929e7
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Jul 18 10:17:15 2017 +0200
+
+    Tag url especialistas
+
+commit 59c6dfbe6da17dafff15135aa795b60e76681dcc
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Jul 18 10:08:17 2017 +0200
+
+    Tag url máster
+
+commit 35fe5ed627d5fff32286f96f04e7760d42641318
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Jul 14 13:48:19 2017 +0200
+
+    DUDG
+
+commit ae0839097b6efa854a70a890a8291844ec20d204
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Jul 14 13:32:14 2017 +0200
+
+    Index
+
+commit 1c243a5f91ba4de5ec5d67427d0488d5c18fcb8e
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Jul 14 13:29:41 2017 +0200
+
+    Actualización
+
+commit 24ff61960d775aa434babf00c7dbe890401e0d2c
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Jul 14 12:25:27 2017 +0200
+
+    Actualización
+
+commit e108b958a0b7045fdc955381e7191ade79249cbe
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Jul 14 11:53:57 2017 +0200
+
+    Actualización tipos
+
+commit d5eea008729d5406a6955957d81fd7c98c8b1a61
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Jun 8 12:55:02 2017 +0200
+
+    Título CAV
+
+commit b35e4909fe7e0622ac39208d7fc02594344ba2cb
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed May 31 11:25:47 2017 +0200
+
+    iMac
+
+commit 10f6c7db51e17130c3cfe448f964ae4afeecdc8a
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed May 31 11:24:43 2017 +0200
+
+    “iMac”
+
+commit d547017186421c1ca8ea74aad9eca05d4760c0b2
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Mar 13 12:54:56 2017 +0100
+
+    DUFV
+
+commit 73ca8328f00c270a4a6b4ca0df8cb431eb792a36
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Mar 13 12:52:10 2017 +0100
+
+    DUFV
+    
+    Actualizar el temario
+
+commit 7f81cb2d9d7bad6bdddde15bd236410b4534a92e
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Mar 13 12:50:04 2017 +0100
+
+    DUFV
+
+commit 7cb17f8397a36beb09c5e9605d16771eb67dbbd7
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Feb 28 08:41:49 2017 +0100
+
+    Ajustes títulos
+
+commit 870713d416e0947ddc733449ebd67445d114050c
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Feb 6 10:57:26 2017 +0100
+
+    url jotform
+
+commit 488b0c2a1e0fa7f816d3af8a79e9e292d4e2c54d
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Feb 6 10:46:52 2017 +0100
+
+    “logs”
+
 commit 0fcffad5ba88778e2dd09b8691041c096093f9aa
 Author: artes-visuales <elizagarate@artesvisuales.com>
 Date:   Thu Jan 19 12:28:35 2017 +0100
