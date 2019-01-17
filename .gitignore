@@ -1,5 +1,8 @@
+assets/
+.gitignore
 *.log
 _emailing.sublime-project
 _emailing.sublime-workspace
-.gitignore
-elements.psd
+*.psd
+*.afphoto
+*.afdesign
